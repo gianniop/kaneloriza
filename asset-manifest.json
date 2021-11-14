@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kaneloriza/static/css/main.28281d6a.chunk.css",
+    "main.js": "/kaneloriza/static/js/main.21725277.chunk.js",
+    "main.js.map": "/kaneloriza/static/js/main.21725277.chunk.js.map",
+    "runtime-main.js": "/kaneloriza/static/js/runtime-main.272f4cd5.js",
+    "runtime-main.js.map": "/kaneloriza/static/js/runtime-main.272f4cd5.js.map",
+    "static/js/2.36f78a2e.chunk.js": "/kaneloriza/static/js/2.36f78a2e.chunk.js",
+    "static/js/2.36f78a2e.chunk.js.map": "/kaneloriza/static/js/2.36f78a2e.chunk.js.map",
+    "static/js/3.dacd44b0.chunk.js": "/kaneloriza/static/js/3.dacd44b0.chunk.js",
+    "static/js/3.dacd44b0.chunk.js.map": "/kaneloriza/static/js/3.dacd44b0.chunk.js.map",
+    "index.html": "/kaneloriza/index.html",
+    "static/css/main.28281d6a.chunk.css.map": "/kaneloriza/static/css/main.28281d6a.chunk.css.map",
+    "static/js/2.36f78a2e.chunk.js.LICENSE.txt": "/kaneloriza/static/js/2.36f78a2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.272f4cd5.js",
+    "static/js/2.36f78a2e.chunk.js",
+    "static/css/main.28281d6a.chunk.css",
+    "static/js/main.21725277.chunk.js"
+  ]
+}
